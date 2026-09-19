@@ -360,6 +360,3 @@ See [Vercel FastAPI support](https://vercel.com/docs/frameworks/backend/fastapi)
 and [function limits](https://vercel.com/docs/functions/limitations).
 The optional `Dockerfile` remains for local container use; Vercel does not use it.
 
-## License
-
-[MIT](LICENSE) © 2026 Shreyansh Dutt Mehra
