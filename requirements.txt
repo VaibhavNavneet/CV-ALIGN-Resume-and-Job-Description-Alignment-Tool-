@@ -1,0 +1,6 @@
+# Dependencies are declared in pyproject.toml (single source of truth).
+# Installing this file installs the package with all runtime dependencies:
+#   pip install -r requirements.txt
+# Optional extras:
+#   pip install -e ".[dev]"    # test/lint tooling
+.
